@@ -46,6 +46,7 @@ npm install
 VITE_OPENWEATHERAPIKEY=your_api_key_here
 VITE_BASE=https://api.openweathermap.org/data/2.5/
 VITE_OPEN_WEATHER_URL_DOCS=https://openweathermap.org/api
+VITE_OPEN_WEATHER_URL_DOCUMENTATION=https://openweathermap.org/
 ```
 
 4. Start the development server:
@@ -121,6 +122,7 @@ Make sure to set up the following environment variables in your `.env` file:
 - `VITE_OPENWEATHERAPIKEY` - Your OpenWeather API key (required)
 - `VITE_BASE` - Base URL for OpenWeather API
 - `VITE_OPEN_WEATHER_URL_DOCS` - Link to OpenWeather documentation
+- `VITE_OPEN_WEATHER_URL_DOCUMENTATION` - Link to .... "    "
 
 ## 🎨 Features Showcase
 
@@ -138,10 +140,6 @@ Make sure to set up the following environment variables in your `.env` file:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 🔗 Resources
 
