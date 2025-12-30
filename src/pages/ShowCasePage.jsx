@@ -32,7 +32,7 @@ const ShowcasePage = () => {
                             Developer Resources
                         </p>
                         <a 
-                            href="https://github.com/yourusername/your-repo-name" 
+                            href="https://github.com/JAM3S11/openweatherdemo.git" 
                             target="_blank" 
                             rel="noopener noreferrer"
                             className="inline-flex items-center gap-2 text-[#135bec] font-bold hover:underline group"
