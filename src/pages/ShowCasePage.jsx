@@ -92,7 +92,7 @@ const ShowcasePage = () => {
                     &nbsp;&nbsp;{'}'}<br />
                     {'}'}<br />
                     <span className="text-slate-200/50 text-sm italic tracking-tighter">// Fetch London weather</span><br />
-                    <span className="text-yellow-400">getWeather</span>(<span className="text-emerald-400">'London'</span>);
+                    <span className="text-yellow-400">getWeather</span>(<span className="text-emerald-400">'Nairobi'</span>);
                   </code>
                 </pre>
               </div>
